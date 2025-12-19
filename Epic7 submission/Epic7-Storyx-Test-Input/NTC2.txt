@@ -1,0 +1,8 @@
+## NTC2: User chooses "Browse Jobs/Internships" and there are none
+2
+user1
+Password@12
+user1
+Password@12
+3
+2

@@ -1,0 +1,13 @@
+## Test back to main menu after invalid menu choices
+2
+user5
+Password@5
+user5
+Password@5
+3
+99
+4
+8
+99
+3
+0

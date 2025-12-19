@@ -1,0 +1,18 @@
+## Negative Test: Attempt to send connection request to yourself
+2
+user1
+Password@12
+user1
+Password@12
+1
+John
+Doe
+USF
+CS
+2027
+
+DONE
+DONE
+4
+John Doe
+1

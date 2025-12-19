@@ -1,0 +1,10 @@
+## Test invalid choice handling in Job Search Menu
+2
+user16
+Password@16
+user16
+Password@16
+3
+99
+4
+0

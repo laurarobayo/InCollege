@@ -1,0 +1,14 @@
+##TCE-2: view profile with no profile setup (just account creation)
+2
+user2
+Password@2
+user2
+Password@2
+0
+2
+user1
+Password@1
+user1
+Password@1
+4
+user2

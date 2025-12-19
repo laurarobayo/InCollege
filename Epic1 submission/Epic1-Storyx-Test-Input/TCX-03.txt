@@ -1,0 +1,5 @@
+## TCX-03: Run without Accounts.txt (tests file initialization)
+## Note: cleanstorage before this test ensures Accounts.txt doesn't exist
+2
+user18
+Password@18

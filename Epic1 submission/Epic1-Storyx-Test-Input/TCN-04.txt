@@ -1,0 +1,4 @@
+## TCN-04: Invalid password - no uppercase
+2
+user6
+nocap1!aa

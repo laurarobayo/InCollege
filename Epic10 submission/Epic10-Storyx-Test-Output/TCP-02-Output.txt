@@ -1,0 +1,161 @@
+-----------------------------------
+Welcome to InCollege!
+-----------------------------------
+1. Log In
+2. Create New Account
+Enter your choice:
+Enter username:
+Enter password:
+Account created successfully.
+Please enter your username:
+Please enter your password:
+You have successfully logged in.
+-----------------------------------
+Welcome, user1!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+------- Create/Edit Profile -------
+Enter First Name:
+Enter Last Name:
+Enter University/College Attended:
+Enter Major:
+Enter Graduation Year (YYYY):
+Enter About Me (optional, max 200 chars, enter blank line to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #1 - Title:
+Experience #1 - Company/Organization:
+Experience #1 - Dates (e.g., Summer 2024):
+Experience #1 - Description (optional, max 100 chars, blank to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #2 - Title:
+Experience #2 - Company/Organization:
+Experience #2 - Dates (e.g., Summer 2024):
+Experience #2 - Description (optional, max 100 chars, blank to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #3 - Title:
+Experience #3 - Company/Organization:
+Experience #3 - Dates (e.g., Summer 2024):
+Experience #3 - Description (optional, max 100 chars, blank to skip):
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Education #1 - Degree:
+Education #1 - University/College:
+Education #1 - Years Attended (e.g., 2023-2025):
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Education #2 - Degree:
+Education #2 - University/College:
+Education #2 - Years Attended (e.g., 2023-2025):
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Education #3 - Degree:
+Education #3 - University/College:
+Education #3 - Years Attended (e.g., 2023-2025):
+Profile saved successfully!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+---------- Your Profile ----------
+Name: Fname Lname
+University: USF
+Major: CS
+Graduation Year: 2026
+About Me: I am taking SWE.
+Experience:
+  Title: SWE Intern
+  Company: OverHere
+  Dates: Summer 2023
+  Description: Coded
+  Title: IT Intern
+  Company: OverThere
+  Dates: Summer 2024
+  Description: Troubleshooting
+  Title: Data Intern
+  Company: ThereToo
+  Dates: Summer 2025
+  Description: Managing
+Education:
+  Degree: Associates in CS
+  University: Tampa College
+  Years: 2022-2023
+  Degree: Bachelors in CS
+  University: USF
+  Years: 2023-2025
+  Degree: Masters in CS
+  University: USF
+  Years: 2025-2026
+Press ENTER to return to the main menu.
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+------- Create/Edit Profile -------
+Enter First Name:
+Enter Last Name:
+Enter University/College Attended:
+Enter Major:
+Enter Graduation Year (YYYY):
+Enter About Me (optional, max 200 chars, enter blank line to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #1 - Title:
+Experience #1 - Company/Organization:
+Experience #1 - Dates (e.g., Summer 2024):
+Experience #1 - Description (optional, max 100 chars, blank to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Education #1 - Degree:
+Education #1 - University/College:
+Education #1 - Years Attended (e.g., 2023-2025):
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Profile saved successfully!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+---------- Your Profile ----------
+Name: Fname Lname
+University: USF
+Major: CS
+Graduation Year: 2026
+About Me: new text see if replaced.
+Experience:
+  Title: new intern
+  Company: new company
+  Dates: Summer new year
+  Description: new tasks
+Education:
+  Degree: new degree
+  University: new uni
+  Years: 2022-2023
+Press ENTER to return to the main menu.
+End of input and program.

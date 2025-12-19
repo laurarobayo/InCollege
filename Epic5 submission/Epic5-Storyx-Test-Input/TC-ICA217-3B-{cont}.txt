@@ -1,0 +1,19 @@
+## Test true persistence, multiple input files - part 2: Create User2, Connection request on 1
+2
+user2
+Password@12
+user2
+Password@12
+1
+Fname2
+Lname2
+UCF
+MSCS
+2028
+I am at UCF.
+DONE
+DONE
+4
+Fname1 Lname1
+1
+0

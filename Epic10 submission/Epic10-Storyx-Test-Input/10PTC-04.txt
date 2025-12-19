@@ -1,0 +1,10 @@
+## Test back to main menu from Learn Skill after completing a course
+2
+user3
+Password@3
+user3
+Password@3
+5
+1
+6
+0

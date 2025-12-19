@@ -1,0 +1,9 @@
+## TCP-03: Create account, login, and explore menu
+2
+user3
+Password@3
+user3
+Password@3
+1
+2
+3

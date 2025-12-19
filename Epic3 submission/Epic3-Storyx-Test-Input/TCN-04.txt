@@ -1,0 +1,21 @@
+##TCN-4: Over-length Experience Description (>100 chars)
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname
+Lname
+USF
+CS
+2026
+I am taking SWE.
+
+SWE Intern
+OverHere
+Summer 2023
+This experience description is 101 characters to see what the code will do if users enter this input.
+DONE
+DONE
+2

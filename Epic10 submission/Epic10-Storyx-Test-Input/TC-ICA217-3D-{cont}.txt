@@ -1,0 +1,8 @@
+## Test true persistence, multiple input files - part 4: Login User1, Accept connection requests
+1
+user1
+Password@12
+6
+1
+1
+0

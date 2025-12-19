@@ -1,0 +1,6 @@
+## Test true persistence, multiple input files - part 6: Login User3, check connections and pending requests (should be no pending requests)
+1
+user3
+Password@12
+7
+6

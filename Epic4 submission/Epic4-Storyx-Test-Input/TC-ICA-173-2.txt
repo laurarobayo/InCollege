@@ -1,0 +1,41 @@
+## Negative Test: already sent a connection request to this user
+2
+user1
+Password@12
+user1
+Password@12
+1
+John
+Doe
+USF
+Computer Science
+2027
+First user profile.
+DONE
+DONE
+0
+2
+user2
+Password@12
+user2
+Password@12
+1
+Jane
+Smith
+UF
+Business
+2028
+Second user profile.
+DONE
+DONE
+0
+1
+user1
+Password@12
+4
+Jane Smith
+1
+4
+Jane Smith
+1
+0

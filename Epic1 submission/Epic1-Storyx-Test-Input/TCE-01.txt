@@ -1,0 +1,4 @@
+## TCE-01: Password at lower bound (8 characters)
+2
+user13
+A1!aaaaa

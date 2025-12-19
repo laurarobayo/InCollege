@@ -1,0 +1,15 @@
+## PTC7: When viewing job details, salary, when provided, is shown.
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+Job1
+Doing work for job1.
+Employer1
+Location1
+$1/hr
+2
+001

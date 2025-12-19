@@ -1,0 +1,19 @@
+## creating account, posting 2 valid jobs and checking database wether jobs are saved.
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+job1
+coding
+Fname
+Tampa
+NONE
+1
+job2
+designing
+google
+san francisco
+$30/hour

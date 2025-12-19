@@ -1,0 +1,15 @@
+##testing persistence, logging into existing account and posting a job and logging out
+1
+user1
+Password@12
+3
+1
+job2
+design
+google
+san francisco
+$50k/year
+2
+0
+4
+0

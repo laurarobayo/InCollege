@@ -1,0 +1,3 @@
+## TCC-02: Executable accepts no arguments
+
+./InCollege arg1

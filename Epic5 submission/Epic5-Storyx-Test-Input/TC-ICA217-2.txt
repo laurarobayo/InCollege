@@ -1,0 +1,16 @@
+## (positive) User sees appropriate message when they try to check their connections and they have none
+2
+user1
+Password@12
+user1
+Password@12
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+7

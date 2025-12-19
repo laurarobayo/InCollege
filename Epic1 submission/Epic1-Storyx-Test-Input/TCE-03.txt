@@ -1,0 +1,10 @@
+## TCE-03: Case sensitivity check
+2
+user15
+Password@15
+user15
+Password@15
+0
+1
+user15
+Password@15

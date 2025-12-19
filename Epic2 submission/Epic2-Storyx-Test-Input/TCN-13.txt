@@ -1,0 +1,32 @@
+## TCN-13: Over-limit Education entries (>3)
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname
+Lname
+USF
+CS
+2026
+I am taking SWE.
+DONE
+
+Coding Course
+Online
+2021-2022
+
+Associates in CS
+Tampa College
+2022-2023
+
+Bachelors in CS
+USF
+2023-2025
+
+Masters in CS
+USF
+2025-2026
+DONE
+2

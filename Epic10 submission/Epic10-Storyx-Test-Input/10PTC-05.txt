@@ -1,0 +1,13 @@
+## Test multiple sequential back to main menu operations
+2
+user4
+Password@4
+user4
+Password@4
+3
+4
+8
+3
+5
+6
+0

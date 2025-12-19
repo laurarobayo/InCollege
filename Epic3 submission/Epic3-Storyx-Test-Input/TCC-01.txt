@@ -1,0 +1,3 @@
+##TCC-01: Warnings
+
+cobc -x -Wall -Wextra InCollege.cob

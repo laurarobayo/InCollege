@@ -1,0 +1,41 @@
+## TCP-4: User can view their own complete saved profile with optional fields filled in
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname
+Lname
+USF
+CS
+2026
+I am taking SWE.
+
+SWE Intern
+OverHere
+Summer 2023
+Coded
+
+IT Intern
+OverThere
+Summer 2024
+Troubleshooting
+
+Data Intern
+ThereToo
+Summer 2025
+Managing
+
+Associates in CS
+Tampa College
+2022-2023
+
+Bachelors in CS
+USF
+2023-2025
+
+Masters in CS
+USF
+2025-2026
+2

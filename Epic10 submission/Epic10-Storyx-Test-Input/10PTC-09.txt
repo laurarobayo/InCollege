@@ -1,0 +1,15 @@
+## Test confirmation message for job posting
+2
+user8
+Password@8
+user8
+Password@8
+3
+1
+Job1
+coding
+Employer1
+Tampa
+$15/hour
+4
+0

@@ -1,0 +1,33 @@
+## ETC3: User applies to a job, exits (logs out), then restarts
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+Job1
+Doing work for job1.
+Employer1
+Location1
+$1/hr
+1
+Job2
+Doing work for job2.
+Employer2
+Location2
+$2/hr
+2
+001
+1
+0
+4
+0
+1
+user1
+Password@12
+3
+2
+002
+1
+3

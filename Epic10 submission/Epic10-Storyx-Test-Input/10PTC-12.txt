@@ -1,0 +1,45 @@
+## Test confirmation message for sending a message
+2
+user13
+Password@13
+user13
+Password@13
+1
+Fname13
+Lname13
+USF
+CS
+2026
+I am at USF.
+DONE
+DONE
+0
+2
+user14
+Password@14
+user14
+Password@14
+1
+Fname14
+Lname14
+UCF
+CS
+2027
+I am at UCF.
+DONE
+DONE
+4
+Fname13 Lname13
+1
+0
+1
+user13
+Password@13
+6
+1
+8
+1
+user14
+Message from user13 to user14.
+3
+0

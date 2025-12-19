@@ -1,0 +1,16 @@
+## TCN-10: Graduation year wrong length (3 digits)
+2
+user1
+Password@1
+user1
+Password@1
+1
+John
+Doe
+Example University
+CS
+999
+
+DONE
+DONE
+2

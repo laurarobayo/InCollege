@@ -1,0 +1,5 @@
+## TCC-03: Try when there is no Accounts.txt
+
+    cobc -Wall -Wextra InCollege.cob
+    touch Accounts.txt
+    ./InCollege

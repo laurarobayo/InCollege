@@ -1,0 +1,197 @@
+-----------------------------------
+Welcome to InCollege!
+-----------------------------------
+1. Log In
+2. Create New Account
+Enter your choice:
+Enter username:
+Enter password:
+Account created successfully.
+Please enter your username:
+Please enter your password:
+You have successfully logged in.
+-----------------------------------
+Welcome, user3!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+------- Create/Edit Profile -------
+Enter First Name:
+Enter Last Name:
+Enter University/College Attended:
+Enter Major:
+Enter Graduation Year (YYYY):
+Enter About Me (optional, max 200 chars, enter blank line to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #1 - Title:
+Experience #1 - Company/Organization:
+Experience #1 - Dates (e.g., Summer 2024):
+Experience #1 - Description (optional, max 100 chars, blank to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Education #1 - Degree:
+Education #1 - University/College:
+Education #1 - Years Attended (e.g., 2023-2025):
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Profile saved successfully!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+Logging you out to Start Screen.
+Goodbye, user3!
+-----------------------------------
+Welcome to InCollege!
+-----------------------------------
+1. Log In
+2. Create New Account
+Enter your choice:
+Enter username:
+Enter password:
+Account created successfully.
+Please enter your username:
+Please enter your password:
+You have successfully logged in.
+-----------------------------------
+Welcome, user2!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+------- Create/Edit Profile -------
+Enter First Name:
+Enter Last Name:
+Enter University/College Attended:
+Enter Major:
+Enter Graduation Year (YYYY):
+Enter About Me (optional, max 200 chars, enter blank line to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Profile saved successfully!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+Logging you out to Start Screen.
+Goodbye, user2!
+-----------------------------------
+Welcome to InCollege!
+-----------------------------------
+1. Log In
+2. Create New Account
+Enter your choice:
+Enter username:
+Enter password:
+Account created successfully.
+Please enter your username:
+Please enter your password:
+You have successfully logged in.
+-----------------------------------
+Welcome, user1!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+------- Create/Edit Profile -------
+Enter First Name:
+Enter Last Name:
+Enter University/College Attended:
+Enter Major:
+Enter Graduation Year (YYYY):
+Enter About Me (optional, max 200 chars, enter blank line to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Profile saved successfully!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+------ Find Someone You Know ------
+Enter the Full Name of the user you want to search or enter 0 to return to the main menu:
+---------- Found Profile ----------
+Name: John Smith
+University: USF
+Major: CS
+Graduation Year: 2026
+About Me: I am taking SWE.
+Experience:
+  Title: SWE Intern
+  Company: OverHere
+  Dates: Summer 2023
+  Description: Coded
+Education:
+  Degree: Associates in CS
+  University: Tampa College
+  Years: 2022-2023
+1. Send Connection Request
+2. Next match or main menu if no more match
+Enter your choice:
+---------- Found Profile ----------
+Name: John Smith
+University: UCF
+Major: Business
+Graduation Year: 2028
+1. Send Connection Request
+2. Next match or main menu if no more match
+Enter your choice:
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+End of input and program.

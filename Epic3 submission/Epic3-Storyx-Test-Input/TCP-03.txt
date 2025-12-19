@@ -1,0 +1,54 @@
+## TCP-3: creates 2 profiles in separate runs, search for the other existing account and for one that doesn't exist right after to check output
+2
+user2
+Password@1
+user2
+Password@1
+1
+name2
+Lname2
+USF
+CS
+2026
+I am taking SWE.
+
+IT Intern
+OverThere
+Summer 2024
+Troubleshooting
+DONE
+
+Bachelors in CS
+USF
+2022-2026
+DONE
+0
+2
+user1
+Password@1
+user1
+Password@1
+1
+name1
+Lname1
+USF
+CS
+2026
+I am taking SWE.
+
+SWE Intern
+OverHere
+Summer 2023
+Coded
+DONE
+
+Bachelors in CS
+UF
+2022-2026
+DONE
+4
+name2 Lname2
+2
+4
+name3 Lname3
+2

@@ -1,0 +1,43 @@
+## Negative Test: already connected with this user (complete flow)
+2
+user1
+Password@12
+user1
+Password@12
+1
+Fname
+Lname
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+0
+2
+user2
+Password@12
+user2
+Password@12
+1
+Fname1
+Lname1
+UF
+MCS
+2027
+I am at UF.
+DONE
+DONE
+4
+Fname Lname
+1
+0
+1
+user1
+Password@12
+6
+1
+4
+Fname1 Lname1
+1
+0

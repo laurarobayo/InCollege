@@ -1,0 +1,8 @@
+## NTC1: User chooses "View My Applications" without having applied to anything
+2
+user1
+Password@12
+user1
+Password@12
+3
+3

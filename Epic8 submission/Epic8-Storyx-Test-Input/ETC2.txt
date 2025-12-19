@@ -1,0 +1,19 @@
+## ETC2: User sends a message to themselves
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+8
+1
+user1
+Message from user1 to user1.

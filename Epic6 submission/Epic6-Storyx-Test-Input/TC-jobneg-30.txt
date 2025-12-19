@@ -1,0 +1,8 @@
+## creating account and trying invalid menu choice
+2
+user1
+Password@12
+user1
+Password@12
+3
+9

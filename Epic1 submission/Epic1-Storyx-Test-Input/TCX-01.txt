@@ -1,0 +1,6 @@
+## TCX-01: Compilation warnings check
+## Note: This test verifies compilation with -Wall flag
+## The script already compiles with -Wall, so this test just needs to run
+2
+user16
+Password@16

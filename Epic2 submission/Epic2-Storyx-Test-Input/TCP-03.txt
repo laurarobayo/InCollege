@@ -1,0 +1,47 @@
+## TC3: Edit existing profile (single field change)
+2
+user1
+Password@1
+user1
+Password@1
+1
+Jane
+Smith
+State University
+Data Science
+2026
+Initial about.
+
+Intern
+Co
+2024
+Did stuff.
+DONE
+
+B.Sc.
+State U
+2022-2026
+DONE
+2
+
+1
+Jane
+Smith
+State University
+Computer Engineering
+2026
+Initial about.
+
+Intern
+Co
+2024
+Did stuff.
+DONE
+
+B.Sc.
+State U
+2022-2026
+DONE
+2
+
+0

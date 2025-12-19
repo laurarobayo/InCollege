@@ -1,0 +1,17 @@
+## (negative) UI test case, select View My Messages with no new messages sent by anyone, at all, should show no messages
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+8
+2

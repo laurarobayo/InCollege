@@ -1,0 +1,154 @@
+### POSITIVE TEST CASES
+
+## TC1: Create first valid user
+2
+user1
+Password@1
+
+## TC2: Create additional valid users (up to 5)
+2
+user2
+Password@2
+    #run ./InCollege
+
+2
+user3
+Password@3
+    #run ./InCollege
+
+2
+user4
+Password@4
+    #run ./InCollege
+
+2
+user15
+Password@5
+    #run ./InCollege
+
+## TC3 : Successful login
+1
+user1
+Password@1
+    #run ./InCollege
+
+# TC4: Post-login menu exploration
+1
+user1
+Password@1
+1
+2
+3
+2
+6
+    #run ./InCollege
+
+
+### NEGATIVE TEST CASES
+
+## TC5: Attempt 6th account creation (should be blocked)
+2
+user6
+Password@6
+    #run ./InCollege
+
+## TC6: Invalid passwords (empty Accounts.txt for this test)
+2
+badUser1
+Short1!
+    #run ./InCollege
+
+2
+badUser2
+toolongCAP1!aaa
+    #run ./InCollege
+
+2
+badUser3
+nocap1!aa
+    #run ./InCollege
+
+2
+badUser4
+NoDigit!aa
+    #run ./InCollege
+
+2
+badUser5
+NoSpecial1a
+    #run ./InCollege
+
+## TC7: Duplicate username attempt (user1 already exists)
+2
+user1
+Another1!
+
+
+## TC8: Wrong password login
+1
+user1
+wrongpass
+
+## TC9: Nonexistent user login
+1
+ghost
+SomePwd1!
+
+## TC10: Invalid menu selection
+1
+user1
+Password@1
+X
+
+### EDGE CASES
+
+## TC11: Password at lower bound (8 chars)
+2
+edgeUser1
+A1!aaaaa
+
+## TC12: Password at upper bound (12 chars)
+2
+edgeUser2
+LongCap1!aaa
+
+## TC13: Case sensitivity check
+2
+UserA
+GoodPwd1!
+    #run ./InCollege
+1
+usera
+GoodPwd1!
+    #run ./InCollege
+
+## TC14: Unlimited login attempts
+1
+user1
+wrongpass
+    #run ./InCollege
+1
+user1
+Password@1
+    #run ./InCollege
+
+## TC15: Persistence check (simulate restart)
+1
+user2
+Cap1!aaaa
+
+## TC16: Empty input line (simulated noise)
+<blank line>
+
+### EXECUTION TEST CASES
+
+##TC17: Warnings
+cobc -x -Wall -Wextra InCollege.cob
+
+## TC18: Executable accepts no arguments
+./InCollege arg1
+
+## TC19: Try when there is no Accounts.txt
+    #run cobc -Wall -Wextra InCollege.cob
+         touch Accounts.txt
+         ./InCollege

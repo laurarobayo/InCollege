@@ -1,0 +1,4 @@
+## TCN-02: Invalid password - too short
+2
+user4
+Short1!

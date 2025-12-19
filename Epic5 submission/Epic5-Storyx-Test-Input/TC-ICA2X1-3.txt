@@ -1,0 +1,101 @@
+## (edge) user2 recieves 3 pending requests, accepts 2 and rejects 1 (user3), check user2(2), user4(1), user(3) connections 
+## (ver. All have same names)
+2
+user1
+Password@12
+user1
+Password@12
+1
+Fname
+Lname
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+0
+2
+user2
+Password@12
+user2
+Password@12
+1
+Fname
+Lname
+UCF
+MSCS
+2028
+I am at UCF.
+DONE
+DONE
+0
+2
+user3
+Password@12
+user3
+Password@12
+1
+Fname
+Lname
+USF
+Cybersecurity
+2028
+I am at USF.
+DONE
+DONE
+4
+Fname Lname
+2
+1
+0
+2
+user4
+Password@12
+user4
+Password@12
+1
+Fname
+Lname
+FSU
+MSCS
+2028
+I am at FSU.
+DONE
+DONE
+4
+Fname Lname
+2
+1
+2
+0
+1
+user1
+Password@12
+4
+Fname Lname
+1
+2
+2
+0
+1
+user2
+Password@12
+6
+1
+2
+1
+6
+7
+0
+1
+user3
+Password@12
+7
+6
+0
+1
+user4
+Password@12
+7
+6

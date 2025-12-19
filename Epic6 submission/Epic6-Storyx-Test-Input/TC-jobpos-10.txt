@@ -1,0 +1,13 @@
+## creating account and posting a job with all fields filled in (salary included)
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+Job1
+coding
+Employer1
+Tampa
+$15/hour

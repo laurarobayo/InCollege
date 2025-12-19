@@ -1,0 +1,37 @@
+## Successful connection request has correct output?
+2
+TestUser
+Abcd123!
+TestUser
+Abcd123!
+1
+Test
+User
+East Coast Uni
+Computer Science
+2026
+
+DONE
+DONE
+0
+2
+newstudent
+Abcd123!
+newstudent
+Abcd123!
+1
+New
+Student
+West Coast Uni
+Business
+2027
+
+DONE
+DONE
+0
+1
+TestUser
+Abcd123!
+4
+New Student
+1

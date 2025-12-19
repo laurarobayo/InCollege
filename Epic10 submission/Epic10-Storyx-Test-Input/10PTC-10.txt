@@ -1,0 +1,34 @@
+## Test confirmation message for sending connection request
+2
+user9
+Password@9
+user9
+Password@9
+1
+Fname9
+Lname9
+USF
+CS
+2026
+I am at USF.
+DONE
+DONE
+0
+2
+user10
+Password@10
+user10
+Password@10
+1
+Fname10
+Lname10
+UCF
+CS
+2027
+I am at UCF.
+DONE
+DONE
+4
+Fname9 Lname9
+1
+0

@@ -1,0 +1,10 @@
+## TCN-07: Duplicate username attempt
+2
+user9
+Password@9
+user9
+Password@9
+0
+2
+user9
+Password@9

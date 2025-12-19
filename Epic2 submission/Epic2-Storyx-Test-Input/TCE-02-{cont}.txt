@@ -1,0 +1,25 @@
+##TCE-02: Exactly 3 Education entries
+1
+user1
+Password@1
+1
+John
+Doe
+Example University
+CS
+2025
+
+DONE
+
+Deg1
+U1
+2019-2021
+
+Deg2
+U2
+2021-2023
+
+Deg3
+U3
+2023-2025
+2

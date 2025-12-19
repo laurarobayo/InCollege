@@ -1,0 +1,55 @@
+-----------------------------------
+Welcome to InCollege!
+-----------------------------------
+1. Log In
+2. Create New Account
+Enter your choice:
+Please enter your username:
+Please enter your password:
+You have successfully logged in.
+-----------------------------------
+Welcome, user1!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+--- Pending Connection Requests ---
+Request from: Fname2 Lname2 (user2)
+1. Accept
+2. Reject
+3. Back to Main Menu
+Enter your choice for user2:
+Connection request from user2 accepted!
+Request from: Fname3 Lname3 (user3)
+1. Accept
+2. Reject
+3. Back to Main Menu
+Enter your choice for user3:
+Connection request from user3 accepted!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+Logging you out to Start Screen.
+Goodbye, user1!
+-----------------------------------
+Welcome to InCollege!
+-----------------------------------
+1. Log In
+2. Create New Account
+Enter your choice:
+End of input and program.

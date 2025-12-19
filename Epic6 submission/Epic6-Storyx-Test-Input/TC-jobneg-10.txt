@@ -1,0 +1,13 @@
+## creating account and missing a job title while posting a job
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+
+desiging
+Fname
+Tampa
+NONE

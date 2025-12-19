@@ -1,0 +1,16 @@
+## Test true persistence, multiple input files - part 1: Create User1
+2
+user1
+Password@12
+user1
+Password@12
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+0

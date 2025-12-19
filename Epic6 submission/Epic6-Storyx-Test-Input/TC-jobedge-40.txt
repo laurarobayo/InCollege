@@ -1,0 +1,8 @@
+## creating account and trying browse jobs/internships menu choice to check wether it is under construction
+2
+user1
+Password@12
+user1
+Password@12
+3
+2

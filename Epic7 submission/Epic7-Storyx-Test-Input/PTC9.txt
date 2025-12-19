@@ -1,0 +1,15 @@
+## PTC8: When viewing job details, salary, when NOT provided, is not shown.
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+Job1
+Doing work for job1.
+Employer1
+Location1
+NONE
+2
+001

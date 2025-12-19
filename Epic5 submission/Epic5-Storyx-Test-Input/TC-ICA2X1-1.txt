@@ -1,0 +1,106 @@
+## (positive) User1 recieves 3 pending requests, accepts 2 and rejects 1 (user3), check user1(2), user4(1), user3(0) connections
+2
+user1
+Password@12
+user1
+Password@12
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+0
+2
+user2
+Password@12
+user2
+Password@12
+1
+Fname2
+Lname2
+UCF
+MSCS
+2028
+I am at UCF.
+DONE
+DONE
+4
+Fname1 Lname1
+1
+0
+2
+user3
+Password@12
+user3
+Password@12
+1
+Fname3
+Lname3
+UF
+MSCS
+2028
+I am at UF.
+DONE
+DONE
+4
+Fname1 Lname1
+1
+0
+2
+user4
+Password@12
+user4
+Password@12
+1
+Fname4
+Lname4
+FSU
+MSCS
+2028
+I am at FSU.
+DONE
+DONE
+4
+Fname1 Lname1
+1
+0
+2
+user5
+Password@12
+user5
+Password@12
+1
+Fname5
+Lname5
+UU
+MSCS
+2028
+I am at UU.
+DONE
+DONE
+0
+1
+user1
+Password@12
+6
+1
+2
+1
+6
+7
+0
+1
+user3
+Password@12
+7
+6
+0
+1
+user4
+Password@12
+7
+6

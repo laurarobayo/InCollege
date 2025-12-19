@@ -1,0 +1,16 @@
+## TCE-06: maximum about me length
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname
+Lname
+USF
+CS
+2026
+This sentence is 200 characters long, so that we can see if the about me section is correct and allows users to enter a string that is exactly 200 characters long, because they should be able to do so
+DONE
+DONE
+2

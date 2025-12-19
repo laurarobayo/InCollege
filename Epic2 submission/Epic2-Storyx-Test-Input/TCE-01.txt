@@ -1,0 +1,30 @@
+##TC3-01: Exactly 3 Experience entries
+2
+user1
+Password@1
+user1
+Password@1
+1
+John
+Doe
+Example University
+CS
+2025
+example about
+
+Role1
+Co1
+2022-2023
+A
+
+Role2
+Co2
+2023-2024
+B
+
+Role3
+Co3
+2024-2025
+C
+DONE
+2

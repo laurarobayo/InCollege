@@ -1,0 +1,37 @@
+## ETC1: User sends a message to someone who is a pending connection
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+0
+2
+user2
+Password@2
+user2
+Password@2
+1
+Fname1
+Lname1
+UCF
+CS
+2026
+I am at UCF.
+DONE
+DONE
+4
+Fname1 Lname1
+1
+8
+1
+user2
+Message from user2 to user1.

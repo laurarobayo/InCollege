@@ -1,0 +1,5 @@
+## Test true persistence, multiple input files - part 5: Login User1, check connections
+1
+user1
+Password@12
+7

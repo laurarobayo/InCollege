@@ -1,0 +1,4 @@
+## TCN-06: Invalid password - no special character
+2
+user8
+NoSpecial1a

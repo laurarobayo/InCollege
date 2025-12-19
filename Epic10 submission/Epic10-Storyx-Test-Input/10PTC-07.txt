@@ -1,0 +1,7 @@
+## Test confirmation messages for account creation and login
+2
+user6
+Password@6
+user6
+Password@6
+0

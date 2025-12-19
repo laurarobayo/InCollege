@@ -1,0 +1,82 @@
+-----------------------------------
+Welcome to InCollege!
+-----------------------------------
+1. Log In
+2. Create New Account
+Enter your choice:
+Enter username:
+Enter password:
+Account created successfully.
+Please enter your username:
+Please enter your password:
+You have successfully logged in.
+-----------------------------------
+Welcome, user1!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+------- Create/Edit Profile -------
+Enter First Name:
+Enter Last Name:
+Enter University/College Attended:
+Enter Major:
+Enter Graduation Year (YYYY):
+Enter About Me (optional, max 200 chars, enter blank line to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #1 - Title:
+Experience #1 - Company/Organization:
+Experience #1 - Dates (e.g., Summer 2024):
+Experience #1 - Description (optional, max 100 chars, blank to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #2 - Title:
+Experience #2 - Company/Organization:
+Experience #2 - Dates (e.g., Summer 2024):
+Experience #2 - Description (optional, max 100 chars, blank to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #3 - Title:
+Experience #3 - Company/Organization:
+Experience #3 - Dates (e.g., Summer 2024):
+Experience #3 - Description (optional, max 100 chars, blank to skip):
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Profile saved successfully!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+---------- Your Profile ----------
+Name: John Doe
+University: Example University
+Major: CS
+Graduation Year: 2025
+About Me: example about
+Experience:
+  Title: Role1
+  Company: Co1
+  Dates: 2022-2023
+  Description: A
+  Title: Role2
+  Company: Co2
+  Dates: 2023-2024
+  Description: B
+  Title: Role3
+  Company: Co3
+  Dates: 2024-2025
+  Description: C
+Press ENTER to return to the main menu.
+End of input and program.

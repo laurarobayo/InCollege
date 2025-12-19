@@ -1,0 +1,29 @@
+## PTC9: Browse shows multiple listings (title, employer, location) then user backs out without selecting a job
+2
+userA
+Password@12
+userA
+Password@12
+3
+1
+JobAlpha
+Alpha role description.
+AlphaCorp
+Austin, TX
+$10/hr
+1
+JobBeta
+Beta role description.
+BetaCorp
+Remote
+NONE
+1
+JobGamma
+Gamma role description.
+GammaCorp
+Chicago, IL
+$15/hr
+2
+0
+4
+0

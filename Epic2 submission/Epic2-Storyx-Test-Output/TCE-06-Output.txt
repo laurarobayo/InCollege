@@ -1,0 +1,74 @@
+-----------------------------------
+Welcome to InCollege!
+-----------------------------------
+1. Log In
+2. Create New Account
+Enter your choice:
+Enter username:
+Enter password:
+Account created successfully.
+Please enter your username:
+Please enter your password:
+You have successfully logged in.
+-----------------------------------
+Welcome, user1!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+------- Create/Edit Profile -------
+Enter First Name:
+Enter Last Name:
+Enter University/College Attended:
+Enter Major:
+Enter Graduation Year (YYYY):
+Enter About Me (optional, max 200 chars, enter blank line to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Experience #1 - Title:
+Experience #1 - Company/Organization:
+Experience #1 - Dates (e.g., Summer 2024):
+Experience #1 - Description (optional, max 100 chars, blank to skip):
+Add Experience (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+Education #1 - Degree:
+Education #1 - University/College:
+Education #1 - Years Attended (e.g., 2023-2025):
+Add Education (optional, max 3 entries. Enter 'DONE' to finish, anything else to continue):
+DONE
+Profile saved successfully!
+-----------------------------------
+0. Log Out
+1. Create/Edit My Profile
+2. View My Profile
+3. Search for a job
+4. Find someone you know
+5. Learn a New Skill
+6. View My Pending Connection Requests
+7. View My Network
+8. Messages
+Enter your choice:
+---------- Your Profile ----------
+Name: Jean-Luc O’Connor
+University: Université de l'Éxample
+Major: Math-&-CS
+Graduation Year: 2025
+About Me: Curaçao, naïve façade — résumé.
+Experience:
+  Title: R&D – Engineer
+  Company: Co/Org, Inc.
+  Dates: Jan/2024–May/2024
+  Description: C++/Python; ML/AI
+Education:
+  Degree: B.Sc. (Hons)
+  University: U. of São Paulo
+  Years: 2021–2025
+Press ENTER to return to the main menu.
+End of input and program.

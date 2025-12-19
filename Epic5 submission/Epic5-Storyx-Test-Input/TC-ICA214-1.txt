@@ -1,0 +1,41 @@
+## (positive) User accepts a pending request, making sure that network and pending requests are updated
+2
+user1
+Password@12
+user1
+Password@12
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+0
+2
+user2
+Password@12
+user2
+Password@12
+1
+Fname2
+Lname2
+UCF
+MSCS
+2028
+I am at UCF.
+DONE
+DONE
+4
+Fname1 Lname1
+1
+0
+1
+user1
+Password@12
+6
+1
+7
+0

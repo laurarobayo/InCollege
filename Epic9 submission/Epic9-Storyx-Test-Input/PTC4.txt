@@ -1,0 +1,109 @@
+## (positive) UI test case, select View My Messages with 3 messages sent to me (all by different users)
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+0
+2
+user2
+Password@2
+user2
+Password@2
+1
+Fname2
+Lname2
+UF
+CS
+2022
+I am at UF.
+DONE
+DONE
+0
+2
+user3
+Password@3
+user3
+Password@3
+1
+Fname3
+Lname3
+UCF
+CS
+2026
+I am at UCF.
+DONE
+DONE
+0
+2
+user4
+Password@4
+user4
+Password@4
+1
+Fname4
+Lname4
+UFF
+CS
+2019
+I am at UFF.
+DONE
+DONE
+4
+Fname1 Lname1
+1
+4
+Fname2 Lname2
+1
+4
+Fname3 Lname3
+1
+0
+1
+user1
+Password@1
+6
+1
+8
+1
+user4
+Message from user1 to user4.
+3
+0
+1
+user2
+Password@2
+6
+1
+8
+1
+user4
+Message from user2 to user4.
+3
+0
+1
+user3
+Password@3
+6
+1
+8
+1
+user4
+Message from user3 to user4.
+2
+3
+0
+1
+user4
+Password@4
+8
+2

@@ -1,0 +1,58 @@
+##TCE-5: checking if search profile ignores one's own profile if it has the same name as other profiles
+2
+user3
+Password@3
+user3
+Password@3
+1
+John
+Smith
+USF
+CS
+2026
+I am taking SWE.
+
+SWE Intern
+OverHere
+Summer 2023
+Coded
+DONE
+
+Associates in CS
+Tampa College
+2022-2023
+DONE
+0
+2
+user2
+Password@2
+user2
+Password@2
+1
+John
+Smith
+UCF
+Business
+2028
+
+DONE
+DONE
+0
+2
+user1
+Password@1
+user1
+Password@1
+1
+John
+Smith
+UF
+Mathematics
+2025
+
+DONE
+DONE
+4
+John Smith
+2
+2

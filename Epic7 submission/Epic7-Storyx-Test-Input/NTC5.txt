@@ -1,0 +1,12 @@
+## NTC5: User browses when no jobs exist and attempts to select a job number anyway
+2
+userB
+Password@12
+userB
+Password@12
+3
+2
+123
+0
+4
+0

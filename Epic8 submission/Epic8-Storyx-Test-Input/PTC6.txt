@@ -1,0 +1,72 @@
+## PTC5: User tries to send a message to 2 different people.
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname1
+Lname1
+USF
+MSCS
+2028
+I am at USF.
+DONE
+DONE
+0
+2
+user2
+Password@2
+user2
+Password@2
+1
+Fname2
+Lname2
+UF
+CS
+2022
+I am at UF.
+DONE
+DONE
+0
+2
+user3
+Password@3
+user3
+Password@3
+1
+Fname3
+Lname3
+UCF
+CS
+2026
+I am at UCF.
+DONE
+DONE
+4
+Fname1 Lname1
+1
+4
+Fname2 Lname2
+1
+0
+1
+user1
+Password@1
+6
+1
+8
+1
+user3
+Message from user1 to user3.
+3
+0
+1
+user2
+Password@2
+6
+1
+8
+1
+user3
+Message from user2 to user3.

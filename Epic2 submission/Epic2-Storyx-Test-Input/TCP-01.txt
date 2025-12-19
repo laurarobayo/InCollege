@@ -1,0 +1,16 @@
+## TC1: Reuses Epic #1 login flow; adds Create/Edit then View.
+2
+user1
+Password@1
+user1
+Password@1
+1
+John
+Doe
+Example University
+Computer Science
+2025
+
+DONE
+DONE
+2

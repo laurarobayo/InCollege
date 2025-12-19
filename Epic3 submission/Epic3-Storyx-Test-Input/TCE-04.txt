@@ -1,0 +1,33 @@
+##TCE-4: Search for profile with same name as current profile
+2
+user3
+Password@3
+user3
+Password@3
+1
+John
+Smith
+USF
+CS
+2026
+
+DONE
+DONE
+0
+2
+user2
+Password@2
+user2
+Password@2
+1
+John
+Smith
+UCF
+Business
+2028
+
+DONE
+DONE
+4
+John Smith
+2

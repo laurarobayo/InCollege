@@ -1,0 +1,6 @@
+## TCX-02: Executable accepts no arguments test
+## Note: This test would require modifying the script to pass arguments
+## For now, just run normally as scripts don't pass arguments
+2
+user17
+Password@17

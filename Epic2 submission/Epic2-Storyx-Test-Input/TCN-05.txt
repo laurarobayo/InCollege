@@ -1,0 +1,16 @@
+## TCN-05: Missing required major
+2
+user1
+Password@1
+user1
+Password@1
+1
+Fname
+Lname
+USF
+
+2026
+I am taking SWE.
+DONE
+DONE
+2

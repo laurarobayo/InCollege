@@ -1,0 +1,19 @@
+## PTC3: When a user chooses to go back to job list after viewing a job
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+Job1
+Doing work for job1.
+Employer1
+Location1
+$0/hr
+2
+001
+2
+0
+4
+0

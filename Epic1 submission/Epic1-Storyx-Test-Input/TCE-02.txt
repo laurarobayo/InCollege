@@ -1,0 +1,4 @@
+## TCE-02: Password at upper bound (12 characters)
+2
+user14
+LongCap1!aaa

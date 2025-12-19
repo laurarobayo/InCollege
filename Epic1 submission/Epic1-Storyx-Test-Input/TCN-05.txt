@@ -1,0 +1,4 @@
+## TCN-05: Invalid password - no digit
+2
+user7
+NoDigit!aa

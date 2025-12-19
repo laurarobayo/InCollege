@@ -1,0 +1,15 @@
+## NTC3: User chooses "Browse Jobs/Internships" and selects a nonexistent job number
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+Job1
+Doing work for job1.
+Employer1
+Location1
+NONE
+2
+999

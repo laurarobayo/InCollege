@@ -1,0 +1,16 @@
+## TCE-03: All optional fields omitted
+2
+user1
+Password@1
+user1
+Password@1
+1
+John
+Doe
+Example University
+CS
+2025
+
+DONE
+DONE
+2

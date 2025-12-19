@@ -1,0 +1,22 @@
+## (Positive) Test single step back for choices 2 and 4 from main menu 
+2
+user1
+Password@1
+user1
+Password@1
+1
+John
+Doe
+Example University
+Computer Science
+2025
+
+DONE
+DONE
+2
+
+4
+0
+4
+Fn Ln
+0

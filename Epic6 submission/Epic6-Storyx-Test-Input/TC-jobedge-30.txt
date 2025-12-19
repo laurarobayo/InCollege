@@ -1,0 +1,25 @@
+## creating account and posting 3 jobs with 3 different salary formats
+2
+user1
+Password@12
+user1
+Password@12
+3
+1
+job1
+coding
+Fname
+Tampa
+NONE
+1
+job2
+designing
+google
+san francisco
+$3000
+1
+job3
+marketing
+meta
+seattle
+$52k/year
